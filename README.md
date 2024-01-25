@@ -19,6 +19,12 @@
 <br/>
 <br/>
 
+## 📖Lazyro blog
+Click **[Lazyro's-velog](https://velog.io/@jin_zero/posts)**
+
+<br/>
+<br/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazyro-choi&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 
